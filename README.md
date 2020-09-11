@@ -13,7 +13,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Flipom/mat281_portfolio/master?urlpath=lab)
 
-* __John Titor__ : [My Page](https://www.linkedin.com/in/williamhgates/)
+* __Felipe Labra__ : [My Page](https://github.com/Flipom)
 
 * __Repositorio Curso__:
     - [2019](https://github.com/aoguedao/mat281_2019S2)
